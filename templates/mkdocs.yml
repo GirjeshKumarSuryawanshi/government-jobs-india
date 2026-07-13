@@ -1,0 +1,88 @@
+site_name: GovtJobNow SEO Documentation
+site_description: Professional SEO, GEO, AEO, Schema.org and Technical SEO documentation.
+site_author: GovtJobNow
+site_url: https://yourusername.github.io/your-repository/
+
+repo_url: https://github.com/yourusername/your-repository
+repo_name: GitHub
+
+theme:
+  name: material
+  language: en
+
+  palette:
+    - scheme: default
+      primary: blue
+      accent: blue
+
+    - scheme: slate
+      primary: blue
+      accent: blue
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.instant
+    - navigation.top
+    - navigation.footer
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.copy
+
+markdown_extensions:
+  - admonition
+  - tables
+  - footnotes
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+
+  - pymdownx.superfences
+
+  - pymdownx.highlight
+
+  - pymdownx.tabbed
+
+  - pymdownx.details
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+
+  - Documentation:
+      - SEO: seo.md
+      - GEO: geo.md
+      - AEO: aeo.md
+      - Schema: schema.md
+      - Sitemap: sitemap.md
+      - Robots: robots.md
+      - API: api.md
+
+  - Architecture:
+      - Website Architecture: diagrams/website-architecture.md
+      - SEO Flow: diagrams/seo-flow.md
+      - Crawling Process: diagrams/crawling-process.md
+      - Indexing Process: diagrams/indexing-process.md
+      - Schema Architecture: diagrams/schema-architecture.md
+      - Internal Linking: diagrams/internal-linking.md
+
+  - Checklists:
+      - Technical SEO: checklists/technical-seo-checklist.md
+      - On Page SEO: checklists/on-page-seo.md
+      - Schema: checklists/schema-checklist.md
+      - Publishing: checklists/publishing-checklist.md
+      - Core Web Vitals: checklists/core-web-vitals.md
+      - GEO: checklists/geo-checklist.md
+      - AEO: checklists/aeo-checklist.md
+
+  - Templates:
+      - Job Template: templates/job-post-template.md
+      - Article Template: templates/article-template.md
+      - Category Template: templates/category-template.md
+      - FAQ Template: templates/faq-template.md
+      - Meta Template: templates/meta-template.md
