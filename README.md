@@ -2,7 +2,7 @@
 
 # GovtJobNow
 
-### 🇮🇳 India's Trusted Government Jobs, Sarkari Result & Recruitment Information Platform
+## 🇮🇳 India's Trusted Government Jobs, Sarkari Result & Recruitment Information Platform
 
 [![Website](https://img.shields.io/badge/Website-govtjobnow.com-blue)](https://govtjobnow.com)
 ![Status](https://img.shields.io/badge/Status-Active-success)
@@ -13,7 +13,7 @@
 
 Helping millions of Indian job aspirants discover authentic Government Job notifications, Admit Cards, Results, Syllabus, Recruitment Updates and Career Resources from official government sources.
 
-🌐 **Website:** https://govtjobnow.com
+🌐 **Website:** [https://govtjobnow.com](https://govtjobnow.com)
 
 </div>
 
@@ -46,7 +46,7 @@ Helping millions of Indian job aspirants discover authentic Government Job notif
 
 GovtJobNow is an independent educational platform dedicated to providing accurate, timely and well-structured information related to Government Jobs across India.
 
-The objective of GovtJobNow is to simplify the recruitment process for job aspirants by collecting publicly available recruitment information from official government organizations and presenting it in an easy-to-understand format.
+The objective of GovtJobNow is to simplify the recruitment process for job aspirants by collecting publicly available recruitment information from official government organizations and presenting [...]
 
 Every article is carefully structured to help candidates quickly understand:
 
@@ -289,39 +289,39 @@ Our goal is to reduce the time candidates spend searching for reliable recruitme
 
 GovtJobNow covers recruitment opportunities from organizations across India, including:
 
-### Central Government
+## Central Government
 
 Recruitment published by ministries, departments, commissions, and central government organizations.
 
-### State Government
+## State Government
 
 Job notifications released by various state government departments and agencies.
 
-### Banking Sector
+## Banking Sector
 
 Recruitment from public sector banks and banking examination authorities.
 
-### Railway Recruitment
+## Railway Recruitment
 
 Updates from Railway Recruitment Boards and railway organizations.
 
-### Defence Services
+## Defence Services
 
 Information related to Army, Navy, Air Force, Coast Guard, and other defence recruitment.
 
-### Public Sector Undertakings (PSUs)
+## Public Sector Undertakings (PSUs)
 
 Recruitment from major public sector enterprises.
 
-### Education
+## Education
 
 Teaching jobs, universities, colleges, and educational institutions.
 
-### Healthcare
+## Healthcare
 
 Medical officers, nursing staff, pharmacists, technicians, and healthcare recruitment.
 
-### Engineering
+## Engineering
 
 Engineering positions across central and state government organizations.
 
@@ -374,7 +374,7 @@ More resources are continuously added as new recruitment notifications are relea
 
 # Search Experience Strategy
 
-GovtJobNow is designed with a user-first information architecture that helps candidates discover recruitment information efficiently while making content easier to understand for search engines and AI-powered assistants.
+GovtJobNow is designed with a user-first information architecture that helps candidates discover recruitment information efficiently while making content easier to understand for search engines a[...]
 
 The website follows modern best practices including:
 
