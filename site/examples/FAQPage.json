@@ -1,0 +1,22 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is GovtJobNow?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GovtJobNow is an educational platform providing information about Government Jobs, Recruitment Notifications, Admit Cards, Results and Career Resources."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is GovtJobNow a government website?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. GovtJobNow is an independent educational platform and is not affiliated with any government organization."
+      }
+    }
+  ]
+}
