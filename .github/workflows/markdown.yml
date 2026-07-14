@@ -1,16 +1,7 @@
-name: Markdown Lint
+runs-on: ubuntu-latest
 
-on:
-  push:
-  pull_request:
+steps:
 
-jobs:
-  markdown:
+  - uses: actions/checkout@v4
 
-    runs-on: ubuntu-latest
-
-    steps:
-
-      - uses: actions/checkout@v4
-
-      - uses: DavidAnson/markdownlint-cli2-action@v19
+  - uses: DavidAnson/markdownlint-cli2-action@v19
