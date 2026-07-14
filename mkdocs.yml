@@ -1,31 +1,30 @@
 site_name: GovtJobNow Developer Hub
 site_description: Professional Documentation for SEO, Technical SEO, AEO, GEO, Schema.org and AI Search.
 site_author: GovtJobNow
+site_url: https://girjeshkumarsuryawanshi.github.io/government-jobs-india/
 
-repo_url: https://github.com/yourusername/your-repository
+repo_url: https://github.com/GirjeshKumarSuryawanshi/government-jobs-india
 repo_name: GitHub
 edit_uri: edit/main/docs/
 
 theme:
   name: material
   language: en
-  logo: assets/images/logo.svg
-  favicon: assets/images/favicon.svg
+  logo: https://img.shields.io/badge/GovtJobNow-blue?logo=github&logoColor=white
+  favicon: https://github.com/favicon.ico
   
   palette:
-    # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: custom
-      accent: custom
+      primary: blue
+      accent: blue
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
-    # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: custom
-      accent: custom
+      primary: blue
+      accent: blue
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -57,35 +56,21 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-  - pymdownx.highlight:
-      anchor_linenums: true
-      line_spans: __span
-      pygments_lang_class: true
+  - pymdownx.superfences
+  - pymdownx.highlight
   - pymdownx.inlinehilite
   - pymdownx.snippets
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.details
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 plugins:
   - search
 
-extra_css:
-  - assets/stylesheets/extra.css
-
-extra_javascript:
-  - assets/javascripts/extra.js
-
 nav:
-  - Getting Started: index.md
+  - Home: index.md
+  - About: about.md
+  - Categories: categories.md
   - Documentation:
       - SEO: seo.md
       - GEO: geo.md
@@ -95,8 +80,4 @@ nav:
       - Robots: robots.md
       - API: api.md
       - Structured Data: structured-data.md
-  - Architecture: architecture.md
-  - Templates: templates.md
-  - Examples: examples.md
-  - Checklists: checklists.md
-  - Developer Resources: resources.md
+  - FAQ: faq.md
