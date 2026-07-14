@@ -1,0 +1,26 @@
+{
+  "@context": "https://schema.org",
+  "@type": "JobPosting",
+  "title": "Junior Engineer",
+  "description": "Example JobPosting schema demonstrating structured data for educational purposes.",
+  "employmentType": "FULL_TIME",
+  "hiringOrganization": {
+    "@type": "Organization",
+    "name": "Example Government Department"
+  },
+  "jobLocation": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "New Delhi",
+      "addressCountry": "IN"
+    }
+  },
+  "datePosted": "2026-07-01",
+  "validThrough": "2026-07-31T23:59",
+  "identifier": {
+    "@type": "PropertyValue",
+    "name": "Example Department",
+    "value": "EXAMPLE-JE-2026"
+  }
+}

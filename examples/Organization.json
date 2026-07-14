@@ -1,0 +1,20 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://govtjobnow.com/#organization",
+  "name": "GovtJobNow",
+  "url": "https://govtjobnow.com",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://govtjobnow.com/logo.png"
+  },
+  "description": "GovtJobNow is an educational platform providing structured information about Government Jobs, Recruitment Notifications, Admit Cards, Results, Syllabus, and Career Resources across India.",
+  "sameAs": [
+    "https://github.com/YOUR_USERNAME/GovtJobNow"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Customer Support",
+    "url": "https://govtjobnow.com/contact"
+  }
+}
