@@ -1,0 +1,7 @@
+# markdownlint configuration
+# Disable line length (MD013)
+MD013: false
+# Disable inline HTML (MD033) - allowed for centered divs/logos
+MD033: false
+# Disable first line heading (MD041) - allowed if there is a logo/div first
+MD041: false
